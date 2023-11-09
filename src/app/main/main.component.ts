@@ -8,7 +8,7 @@ import { Card } from '../shared/card';
 	templateUrl: './main.component.html',
 	styleUrls: ['./main.component.scss']
 })
-export class MainComponent{
+export class MainComponent {
 	@Input() summary: Summary;
 	@Input() cards: {
 		supervisor: string;
