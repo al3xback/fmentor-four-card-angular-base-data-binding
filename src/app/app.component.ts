@@ -10,8 +10,8 @@ export class AppComponent {
 		name: 'Four card feature section',
 		cards: {
 			intro: {
-				title: 'Reliable, efficient delivery',
-				subtitle: 'Powered by Technology',
+				subtitle: 'Reliable, efficient delivery',
+				title: 'Powered by Technology',
 				description: 'Our Artificial Intelligence powered tools use millions of project data points to ensure that your project is successful'
 			},
 			list: {
